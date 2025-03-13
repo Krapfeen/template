@@ -5,6 +5,14 @@
 
 ## Fix first commit
 
+### Use Makefile
+
+```bash
+make init
+```
+
+### Use git command
+
 ```bash
 git update-ref -d HEAD
 git add .
